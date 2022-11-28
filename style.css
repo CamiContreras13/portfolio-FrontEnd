@@ -1,0 +1,21 @@
+/* Estilos Globales */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Neucha', cursive;
+}
+/*NAV*/
+.name{
+    color: white;
+}
+.fa-brands{
+    color: white;
+    font-size: 30px;
+    padding: 5px;
+}
+.fa-brands:hover{
+    color: grey;
+}

@@ -19,3 +19,45 @@ body{
 .fa-brands:hover{
     color: grey;
 }
+/*MAIN*/
+.container-profile{
+    border: 1px solid black;
+    margin: 2px;
+}
+.img-main{
+    border-radius: 6px 6px 0px 0px;
+    height: 500px;
+    width: 217vh;
+}
+.img-profile{
+    border-radius: 50%;
+    margin-top:-25vh;
+    margin-left: 10vh;
+    height: 400px;
+    width: 400px;
+    border: 2px solid grey;
+}
+.btn-edit {
+    margin-top: -50vh;
+    margin-left: 200vh;
+    border: 1px solid black;
+}
+.data{
+    border-radius: 6px 6px 6px 6px;
+    border: 3px solid grey;
+    margin: 6px;
+}
+h1{
+    margin-left:130px ;
+}
+h2,h3{
+    margin-left: 130px;
+    color: grey;
+}
+a{
+    text-decoration: none;
+}
+.btn-data{
+    margin-left: 130px;
+    margin-bottom: 4px;
+}

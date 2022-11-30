@@ -47,17 +47,59 @@ body{
     border: 3px solid grey;
     margin: 6px;
 }
-h1{
-    margin-left:130px ;
+.title{
+    margin-left:110px ;
 }
-h2,h3{
-    margin-left: 130px;
+.edit{
+    margin-left: 175vh;
+    font-size: 24px;
+}
+.plus{
+    margin-left: 176vh;
+    font-size: 24px;
+}
+.subtitle{
+    margin-left: 110px;
     color: grey;
 }
 a{
     text-decoration: none;
+    font-size: 24px;
 }
 .btn-data{
-    margin-left: 130px;
+    margin-left: 110px;
     margin-bottom: 4px;
+}
+.education{
+    margin-left: 130px;
+    border:1px solid black;
+    border-radius: 6px;
+}
+.card{
+    margin-left: 100px;
+    border: none;
+}
+.card img {
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-left: 110px;
+    width: 130px;
+    height: 130px;
+    align-items: center;
+    justify-content: center;
+}
+.card.body{
+    margin: 0;
+    padding: 0;
+}
+.progress{
+    width: 700px;
+    margin-left: 30%;
+    margin-bottom: 6px;
+}
+.skills{
+    margin-left: 35%;
+}
+.container-fluid{
+    margin-left: 110px;
 }
